@@ -1,0 +1,19 @@
+body{
+    background-color: #af2c7d96;
+
+}
+
+section{
+    width: 80%;
+    height: 50vh;
+    background: #ff02c0;
+    margin-top: 15vh;
+    margin-left: 10%;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+section img{
+    border-radius: 200px;
+    width: 15%;
+    margin-left: 3%;
+    margin-top: 3vh;
+}
